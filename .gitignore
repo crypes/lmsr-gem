@@ -1,3 +1,7 @@
+.idea/
+.rspec
+.rspec_status
+gemfile.lock
 *.gem
 *.rbc
 /.config
